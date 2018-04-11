@@ -1,0 +1,2 @@
+webpackJsonp([0x60890925fc1a],{385:function(e,t,n){(function(u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var a=n(2);l(a);t.default=function(){return u.createElement("div",null,u.createElement("h1",null,"Just make a pull request on master for any updates to docs."),u.createElement("p",null,u.createElement("a",{href:"https://github.com/nicholasMink/"},"Github")))},e.exports=t.default}).call(t,n(20))}});
+//# sourceMappingURL=component---src-pages-github-js-b4b3dfada295f5eaba83.js.map

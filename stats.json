@@ -1,0 +1,82 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-fef4b6701abddce86780.js",
+      "component---src-pages-index-js-fef4b6701abddce86780.js.map"
+    ],
+    "path---github": [
+      "path---github-a0e39f21c11f6a62c5ab.js",
+      "path---github-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---products": [
+      "path---products-a0e39f21c11f6a62c5ab.js",
+      "path---products-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----6f2d89c1595d794b0320.js",
+      "path----6f2d89c1595d794b0320.js.map"
+    ],
+    "component---src-pages-github-js": [
+      "component---src-pages-github-js-b4b3dfada295f5eaba83.js",
+      "component---src-pages-github-js-b4b3dfada295f5eaba83.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-b84dc952d929669935d8.js",
+      "component---src-templates-blog-post-js-b84dc952d929669935d8.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-a0e0a12317290e0d8405.js",
+      "component---src-layouts-index-js-a0e0a12317290e0d8405.js.map"
+    ],
+    "path---guess-game": [
+      "path---guess-game-992437cdad1091fd611b.js",
+      "path---guess-game-992437cdad1091fd611b.js.map"
+    ],
+    "path---docs": [
+      "path---docs-ec2d076a195138b5a0c7.js",
+      "path---docs-ec2d076a195138b5a0c7.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-cd51d374be13da4bdeeb.js",
+      "component---src-pages-404-js-cd51d374be13da4bdeeb.js.map"
+    ],
+    "commons": [
+      "commons-4f4f455d98929e587b0f.js",
+      "commons-4f4f455d98929e587b0f.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-docs-js": [
+      "component---src-pages-docs-js-d88b328979f675a44100.js",
+      "component---src-pages-docs-js-d88b328979f675a44100.js.map"
+    ],
+    "app": [
+      "app-7822959d402bcbc6456f.js",
+      "build-js-styles.css",
+      "app-7822959d402bcbc6456f.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-products-js": [
+      "component---src-pages-products-js-c4ad2467acdbf146c901.js",
+      "component---src-pages-products-js-c4ad2467acdbf146c901.js.map"
+    ],
+    "path---es-6-spread-operator": [
+      "path---es-6-spread-operator-faaed3dc465d545e4c1f.js",
+      "path---es-6-spread-operator-faaed3dc465d545e4c1f.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---rust-server": [
+      "path---rust-server-b27403171300d473976a.js",
+      "path---rust-server-b27403171300d473976a.js.map"
+    ]
+  }
+}
