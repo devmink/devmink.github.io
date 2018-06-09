@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{104:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Prisma | GraphQL | Gatsby"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----a2d30c9968290b91261c.js.map

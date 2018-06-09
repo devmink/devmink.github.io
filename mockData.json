@@ -1,0 +1,50 @@
+{
+  "data" : {
+    "links" : [ {
+      "votes" : [ ],
+      "url" : "www.prisma.io",
+      "description" : "Prisma turns your database into a GraphQL API",
+      "id" : "cji6jo004hds20b73ws6j7dzr",
+      "createdAt" : "2018-06-08T22:30:29.384Z"
+    }, {
+      "votes" : [ ],
+      "url" : "www.graphql-europe.org",
+      "description" : "Europe's biggest GraphQL conference",
+      "id" : "cji6n3zdlhr1f0b73r69le14c",
+      "createdAt" : "2018-06-09T00:06:53.916Z"
+    }, {
+      "votes" : [ {
+        "id" : "cji6ny9ejhu5s0b73sx9ngmj6"
+      } ],
+      "url" : "www.graphqlweekly.com",
+      "description" : "Curated GraphQL content coming to your email inbox every Friday",
+      "id" : "cji6nljtqhswc0b73hwxu3vzt",
+      "createdAt" : "2018-06-09T00:20:33.569Z"
+    }, {
+      "votes" : [ ],
+      "url" : "www.prisma.io",
+      "description" : "Prisma turns your database into a GraphQL API",
+      "id" : "cji6qkhpai4lu0b734p9itlgq",
+      "createdAt" : "2018-06-09T01:43:43.008Z"
+    }, {
+      "votes" : [ ],
+      "url" : "https://nickmink-dev.firebaseapp.com",
+      "description" : "Nick's Portfolio Site",
+      "id" : "cji6qlbwsi4pv0b733p7ncwjz",
+      "createdAt" : "2018-06-09T01:44:22.159Z"
+    }, {
+      "votes" : [ ],
+      "url" : "https://events.google.com/io/",
+      "description" : "Google I/O is a developer festival that was held May 8-10 at the Shoreline Amphitheatre in Mountain View, CA",
+      "id" : "cji6rwkarid5p0b732mmcj0sy",
+      "createdAt" : "2018-06-09T02:21:05.862Z"
+    } ],
+    "users" : [ {
+      "name" : "Alice",
+      "email" : "alice@graph.cool"
+    }, {
+      "name" : "Nick",
+      "email" : "nick@graph.cool"
+    } ]
+  }
+}
