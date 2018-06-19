@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>API Testing</title>
+  <title>Webpack App</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato|Oswald:700|Vollkorn:600i,700i">
+</head>
+<body>
+  <header class="row space__between align__center">
+    <div>
+      <h4>Microsoft's Cognitive Services</h4>
+      <h1>Face API</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/#email">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <div id="FaceEmotion"></div>
+<div class="instructions">
+  Enter the URL to an image that includes a face or faces, then click
+  the <strong>Analyze face</strong> button.<br><br>
+</div>
+<div class="input-area">
+  <label for="inputImage">Image URL</label><input type="text" name="inputImage" id="inputImage" value="https://mir-s3-cdn-cf.behance.net/user/138/9a744714818479.59344b6da7de6.png" />
+  <button id="imgBtn">Analyze</button>
+</div>
+
+
+<div id="wrapper" style="width:400px; display:table;">
+    <div id="jsonOutput" style="width:400px; display:table-cell;">
+        Response:
+        <textarea id="responseTextArea" class="UIInput"
+                  style="width:580px; height:400px;"></textarea>
+    </div>
+    <div id="imageDiv" style="width:380px; display:table-cell;">
+        Source image:<br><br>
+
+        <img id="sourceImage" width="340" />
+    </div>
+</div>
+  <div class="page__wrapper">
+    <main></main>
+  </div>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+<script type="text/javascript" src="bundle.js"></script></body>
+</html>
